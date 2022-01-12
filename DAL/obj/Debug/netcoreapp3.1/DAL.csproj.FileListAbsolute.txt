@@ -1,0 +1,14 @@
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Gon\Desktop\VoterProject\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Gon\Desktop\VoterProject\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
